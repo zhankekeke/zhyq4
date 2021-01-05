@@ -16,7 +16,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "cryptojs": "^2.5.3",
     "deep-copy": "^1.4.2",
     "draggabilly": "^2.1.1",
